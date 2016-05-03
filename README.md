@@ -2,6 +2,7 @@
 Tutorial to learn basics of angular2 apps.
 
 Covered in this tutorial:
+-Basics (project structure, data binding, master/detail, services, dependency injection, navigation, and remote data access)
 -Master/Detail
 -Multiple Components
 -Services
